@@ -8,8 +8,9 @@ copiar el texto obtenido.
 Se siguió un estilo basado en Figma, pero al ser opcional el estilo opté por usar uno propio.
 
 El proyecto se creó de manera responsiva para cualquier pantalla de computadora, tablet o celular.
-En este proyecto se utilizó
--HTML
--JAVASCRIPT
--CSS
+En este proyecto se utilizó:
+
+- HTML
+- JAVASCRIPT
+- CSS
 
